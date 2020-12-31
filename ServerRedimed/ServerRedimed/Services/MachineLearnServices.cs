@@ -46,7 +46,8 @@ namespace ServerRedimed.Services
             if (client != null)
             {
                 //string mlFeedback = (new WebClient()).DownloadString("http://nghiagood.pythonanywhere.com/" + "https%3A%5C%5Cencrypted-tbn0.gstatic.com%5Cimages%3Fq%3Dtbn%3AANd9GcSlSjQxZe_tte_QOFNFfCIyn0jf6s3PIl2pzJuTedovz70SOz5S%26s");
-                string mlFeedback = (new WebClient()).DownloadString("http://nghiagood.pythonanywhere.com/" + HttpUtility.UrlEncode(linkImage));
+                //string mlFeedback = (new WebClient()).DownloadString("http://nghiagood.pythonanywhere.com/" + HttpUtility.UrlEncode(linkImage));
+                string mlFeedback = (new WebClient()).DownloadString("https://ungthudaserver-pchohu4vcq-as.a.run.app/" + HttpUtility.UrlEncode(linkImage));
                char resultML = mlFeedback[10];
 
                 n = new testModel()
