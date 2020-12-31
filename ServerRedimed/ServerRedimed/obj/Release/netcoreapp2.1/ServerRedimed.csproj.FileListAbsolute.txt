@@ -26,3 +26,17 @@ C:\Users\nghia\Desktop\train today\Code\code-test\ServerRedimed\ServerRedimed\ob
 C:\Users\nghia\Desktop\train today\Code\code-test\ServerRedimed\ServerRedimed\obj\Release\netcoreapp2.1\ServerRedimed.RazorTargetAssemblyInfo.cache
 C:\Users\nghia\Desktop\train today\Code\code-test\ServerRedimed\ServerRedimed\obj\Release\netcoreapp2.1\ServerRedimed.dll
 C:\Users\nghia\Desktop\train today\Code\code-test\ServerRedimed\ServerRedimed\obj\Release\netcoreapp2.1\ServerRedimed.pdb
+C:\Users\nghia\Desktop\code\server-redimed\ServerRedimed\ServerRedimed\bin\Release\netcoreapp2.1\ServerRedimed.deps.json
+C:\Users\nghia\Desktop\code\server-redimed\ServerRedimed\ServerRedimed\bin\Release\netcoreapp2.1\ServerRedimed.runtimeconfig.json
+C:\Users\nghia\Desktop\code\server-redimed\ServerRedimed\ServerRedimed\bin\Release\netcoreapp2.1\ServerRedimed.runtimeconfig.dev.json
+C:\Users\nghia\Desktop\code\server-redimed\ServerRedimed\ServerRedimed\bin\Release\netcoreapp2.1\ServerRedimed.dll
+C:\Users\nghia\Desktop\code\server-redimed\ServerRedimed\ServerRedimed\bin\Release\netcoreapp2.1\ServerRedimed.pdb
+C:\Users\nghia\Desktop\code\server-redimed\ServerRedimed\ServerRedimed\obj\Release\netcoreapp2.1\ServerRedimed.csprojAssemblyReference.cache
+C:\Users\nghia\Desktop\code\server-redimed\ServerRedimed\ServerRedimed\obj\Release\netcoreapp2.1\ServerRedimed.csproj.CoreCompileInputs.cache
+C:\Users\nghia\Desktop\code\server-redimed\ServerRedimed\ServerRedimed\obj\Release\netcoreapp2.1\ServerRedimed.RazorAssemblyInfo.cache
+C:\Users\nghia\Desktop\code\server-redimed\ServerRedimed\ServerRedimed\obj\Release\netcoreapp2.1\ServerRedimed.RazorAssemblyInfo.cs
+C:\Users\nghia\Desktop\code\server-redimed\ServerRedimed\ServerRedimed\obj\Release\netcoreapp2.1\ServerRedimed.AssemblyInfoInputs.cache
+C:\Users\nghia\Desktop\code\server-redimed\ServerRedimed\ServerRedimed\obj\Release\netcoreapp2.1\ServerRedimed.AssemblyInfo.cs
+C:\Users\nghia\Desktop\code\server-redimed\ServerRedimed\ServerRedimed\obj\Release\netcoreapp2.1\ServerRedimed.RazorTargetAssemblyInfo.cache
+C:\Users\nghia\Desktop\code\server-redimed\ServerRedimed\ServerRedimed\obj\Release\netcoreapp2.1\ServerRedimed.dll
+C:\Users\nghia\Desktop\code\server-redimed\ServerRedimed\ServerRedimed\obj\Release\netcoreapp2.1\ServerRedimed.pdb

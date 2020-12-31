@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nghia\\Desktop\\train today\\Code\\code-test\\ServerRedimed\\ServerRedimed\\ServerRedimed.csproj": {}
+    "C:\\Users\\nghia\\Desktop\\code\\server-redimed\\ServerRedimed\\ServerRedimed\\ServerRedimed.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nghia\\Desktop\\train today\\Code\\code-test\\ServerRedimed\\ServerRedimed\\ServerRedimed.csproj": {
+    "C:\\Users\\nghia\\Desktop\\code\\server-redimed\\ServerRedimed\\ServerRedimed\\ServerRedimed.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nghia\\Desktop\\train today\\Code\\code-test\\ServerRedimed\\ServerRedimed\\ServerRedimed.csproj",
+        "projectUniqueName": "C:\\Users\\nghia\\Desktop\\code\\server-redimed\\ServerRedimed\\ServerRedimed\\ServerRedimed.csproj",
         "projectName": "ServerRedimed",
-        "projectPath": "C:\\Users\\nghia\\Desktop\\train today\\Code\\code-test\\ServerRedimed\\ServerRedimed\\ServerRedimed.csproj",
+        "projectPath": "C:\\Users\\nghia\\Desktop\\code\\server-redimed\\ServerRedimed\\ServerRedimed\\ServerRedimed.csproj",
         "packagesPath": "C:\\Users\\nghia\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nghia\\Desktop\\train today\\Code\\code-test\\ServerRedimed\\ServerRedimed\\obj\\",
+        "outputPath": "C:\\Users\\nghia\\Desktop\\code\\server-redimed\\ServerRedimed\\ServerRedimed\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
